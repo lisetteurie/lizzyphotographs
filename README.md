@@ -1,4 +1,3 @@
-# lizzyphotographs2
 <!doctype html>
 <html>
 <head>

@@ -1,10 +1,5 @@
 <!doctype html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>html1</title>
-<style type="text/css">
-.text_column {
 }
 .tag {
 }
